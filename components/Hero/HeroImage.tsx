@@ -26,7 +26,6 @@ export default function HeroImage({
             aspectRatio: "4/3",
           }}
         />
-
         {/* Gradient overlays */}
         <div className="absolute inset-0 bg-linear-to-tr from-black/70 via-black/40 to-transparent" />
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,transparent_0%,rgba(0,0,0,0.35)_65%,rgba(0,0,0,0.75)_100%)]" />

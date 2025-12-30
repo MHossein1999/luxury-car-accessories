@@ -14,6 +14,7 @@ export default function HeroSection({ isLoaded }: { isLoaded: boolean }) {
       whileInView="visible"
       viewport={{ once: true, margin: "-100px" }}
       variants={staggerContainer}
+      className="lg:h-screen"
     >
       <motion.div
         initial={{ opacity: 0, x: 40 }}

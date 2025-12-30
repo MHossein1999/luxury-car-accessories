@@ -20,23 +20,17 @@ const geist = Geist({
 export const metadata: Metadata = {
   title: "لوازم جانبی خودرو",
   description: "فروشگاه آنلاین لوازم جانبی پرمیوم خودرو",
-  generator: "v0.app",
   icons: {
     icon: [
       {
-        url: "/icon-light-32x32.png",
-        media: "(prefers-color-scheme: light)",
+        url: "/favicon-car.png",
+        type: "image/png",
       },
       {
-        url: "/icon-dark-32x32.png",
-        media: "(prefers-color-scheme: dark)",
-      },
-      {
-        url: "/icon.svg",
+        url: "/favicon-car.svg",
         type: "image/svg+xml",
       },
     ],
-    apple: "/apple-icon.png",
   },
 };
 
