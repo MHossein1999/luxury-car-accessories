@@ -12,7 +12,7 @@
 ## 🚀 دموی آنلاین
 
 <p dir="rtl" align="right">
-[مشاهده سایت زنده](https://your-vercel-link.vercel.app)
+[مشاهده سایت زنده](https://luxury-car-accessories.vercel.app/)
 </p>
 
 ---
@@ -49,8 +49,8 @@
 <p dir="rtl" align="right">
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/MHossein1999/luxury-car-accessories.git
+cd luxury-car-accessories
 npm install
 npm run dev
 ```
